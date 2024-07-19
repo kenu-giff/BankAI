@@ -5,5 +5,6 @@ Welcome to the MultiLinguAI Github repository! MultiLinguAI is an AI-powered pla
 
 ## Structure 
 
-This repository is structured as follows:
+This repository is structured as follows: 
+front end/ html, css, and javascript
 
